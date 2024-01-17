@@ -1,2 +1,2 @@
 # DevFirstPriyanshi
-This is my first repo as a dev in unthinkable
+This is my first repo as a dev in unthinkable solutions 
